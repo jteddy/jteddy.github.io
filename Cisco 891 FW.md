@@ -10,12 +10,13 @@ Using OSX the break key is "Command-A then Command-B"
 
 3. Issue the below command
 
-4. ```
+4. 
+  ```
   rommon 1 > confreg 0x2142
 
   You must reset or power cycle for new config to take effect
-  rommon 2 > reset```
-
+  rommon 2 > reset
+  ```
 5. Type `no` after each setup question, or press `Ctrl-C` in order to skip the initial setup procedure.
 
 6. Type `enable` at the `Router>` prompt.
