@@ -15,7 +15,7 @@ Using OSX the break key is "Command-A then Command-B"
 
   You must reset or power cycle for new config to take effect
   rommon 2 > reset```
-```
+
 5. Type `no` after each setup question, or press `Ctrl-C` in order to skip the initial setup procedure.
 
 6. Type `enable` at the `Router>` prompt.
